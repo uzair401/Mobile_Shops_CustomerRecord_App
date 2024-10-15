@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+*.mo
+*.pot
+*.log
+local_settings.py
+*.pkl
+
+# Environments
+.env
+*.env
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Migrations (Optional)
+# Uncomment below if you want to ignore migrations
+# **/migrations/
+
+# Static and media files (for collected files in production)
+/static/
+media/
+
+# Front-end and Node.js dependencies
+node_modules/
+yarn.lock
+package-lock.json
+
+# Testing and coverage reports
+.coverage
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Docker (optional)
+Dockerfile
+docker-compose.yml
+
+# CI/CD (optional)
+.github/workflows/
