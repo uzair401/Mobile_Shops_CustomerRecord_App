@@ -26,6 +26,17 @@ ENV/
 env/
 .venv/
 .ENV/
+/Include
+/Lib
+./Scripts
+/pyvenve.cfg
+/db.sqlite3
+/Include
+.Lib
+.Scripts
+.pyvenve.cfg
+.db.sqlite3
+
 
 # Migrations (Optional)
 # Uncomment below if you want to ignore migrations
@@ -34,6 +45,9 @@ env/
 # Static and media files (for collected files in production)
 /static/
 media/
+/Include
+
+
 
 # Front-end and Node.js dependencies
 node_modules/
