@@ -36,6 +36,7 @@ env/
 .Scripts
 .pyvenve.cfg
 .db.sqlite3
+/static
 
 
 # Migrations (Optional)
